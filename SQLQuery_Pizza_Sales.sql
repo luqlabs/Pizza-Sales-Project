@@ -1,4 +1,3 @@
--- Created by GitHub Copilot in SSMS - review carefully before executing
 
 -- A. KPIs
 -- 1. Total Revenue
